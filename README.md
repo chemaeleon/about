@@ -1,5 +1,5 @@
 ## Computational chemistry templates
-:hibiscus: Welcome to my repository of scripts to generate workflows for medicinal chemistry. I hope you find them useful.
+:hibiscus: Welcome to my repository of scripts to generate workflows for medicinal chemistry. Hope you find them useful.
 
 You can use the [editor on GitHub](https://github.com/chemaeleon/about/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
