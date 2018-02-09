@@ -1,5 +1,5 @@
-## Computational chemistry templates
-Welcome to my repository of scripts to generate workflows for medicinal chemistry. Hope you find them useful.
+# templates
+This is a repoository of complete and tested python scripts to do perform standard cheminformatics tasks.
 
 You can use the [editor on GitHub](https://github.com/chemaeleon/about/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
