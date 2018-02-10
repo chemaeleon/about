@@ -1,6 +1,5 @@
-# templates
-This is a repoository of complete and tested python scripts to do perform standard cheminformatics tasks.
-
+# small changes - big effects
+chameleons[https://www.youtube.com/watch?v=SQggDnScsvI] **combine** nanocrystalline **modules** to change the colour of their skins. eff the effect is produced **fast** and **low cost** with regards to metabolic energy. 
 You can use the [editor on GitHub](https://github.com/chemaeleon/about/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
