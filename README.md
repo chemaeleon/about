@@ -1,8 +1,9 @@
-# Combining Functionality
-[chameleons](https://www.youtube.com/watch?v=SQggDnScsvI) change their color **fast** and **effortless** by combining nanocrystalline filters in their skin. The chemeleon repository aims to share **cheminformatics workflows** based on **free open source packages**. 
-[edit](https://github.com/chemaeleon/about/edit/master/README.md)
+# Large Scale Evaluations
+ 
+This repository puts **free and open soure software**  into **ready-made scripts** for large scale statistical data-analysis and visual inspection.
 
+Projects currently underway include:
 
-
-[Link](url) and ![Image](src)
+- data retrieval from the **EBI/CHEMBL** repository
+- enumeration of **tautomer** states
 
